@@ -5,7 +5,7 @@ q = PriorityQueue()
 #encolamos a los pasientes
 q.put((5, 'Hector'))
 q.put((2, 'Gaby'))
-q.put((6, 'Rafael'))
+q.put((1, 'Rafael'))
 q.put((3, 'Esther'))
 q.put((1, 'Libia'))
 q.put((4, 'Esteban'))
