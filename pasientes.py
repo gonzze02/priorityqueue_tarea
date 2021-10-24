@@ -21,3 +21,8 @@ print('La lista de pasinetes esta vacia :', q.empty())
 
 # comprobamos si aun esta llena la cola
 print('Faltan pasientes por atender :', q.full())
+
+def reverse1():
+    s=input("Ingrse un texto")
+            return s[::-1]
+print(reverse1())
